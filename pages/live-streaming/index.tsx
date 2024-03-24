@@ -55,7 +55,11 @@ export default function LiveStreaming() {
                 <h2>Live Camera</h2>
             </Center>
             <Center>
-                <iframe title="Cam1" src="https://www.youtube.com/embed/Mzk0ddJYGy4?si=dwZuKyeRvE5UMIEG" height="720" width="1280" name="HD CAM 2">Live Stream Camera 1</iframe>
+                <iframe title="Cam1" 
+                    src="https://www.youtube.com/embed/Mzk0ddJYGy4?si=dwZuKyeRvE5UMIEG" 
+                    height="720" 
+                    width="1280" 
+                    name="HD CAM 2">Live Stream Camera 1</iframe>
             </Center>
             <Space h="lg" />
 
